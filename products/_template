@@ -3,6 +3,6 @@ Cat = C
 
 Toy = T
 Food = F
-Supplement = S
+Other = O
 
 Ex: Cat Food number 032 = CF-032
